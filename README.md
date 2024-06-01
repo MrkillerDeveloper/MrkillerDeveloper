@@ -8,10 +8,7 @@
 <!--
 **MrkillerDeveloper/MrkillerDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-                ──「 ❣️ᴊᴏɪɴ🌹ғɪʀsᴛ❣️ 」──
-
-⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶ https://t.me/Mrkillerdeveloper
-
+      
 <p align="center">
   <img src="https://telegra.ph/file/b234a3e63c10139f8680c.jpg">
 </p>
@@ -32,14 +29,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 
-
-
-
-
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=MrkillerDeveloper&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://MrkillerDeveloper.me)
-  
-
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrkillerDeveloper&show_icons=true&locale=en&layout=compact" alt="MrkillerDeveloper" /></p>
 
 # Contribution Graph:
 
@@ -70,3 +59,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/Darklordxpert"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://facebook.com/Darklordxpert"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/Darklordxpert"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MrkillerDeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
