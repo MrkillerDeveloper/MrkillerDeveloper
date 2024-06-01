@@ -57,12 +57,8 @@ You can click the Preview link to take a look at your changes.
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=MrkillerDeveloper&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=FF8100)](https://MrkillerDeveloper.me)
 
-# 🛠️ Languages and tools☠︎︎
-</br>
-
-[![Languages and Tools](https://skillicons.dev/icons?i=vscode,docker,git,github,heroku,mongodb,java,html,py,c&perline=10)](https://MrkillerDeveloper.me)
-
-
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 # My Stats☠︎︎
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MrkillerDeveloper&show_icons=true&theme=radical)
